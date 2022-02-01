@@ -7,3 +7,5 @@ de data asta fara conflict
 
 O sa incercam inca un commit pe master
 Mai incercam odata.
+
+### Aici sunt modificarile mele
