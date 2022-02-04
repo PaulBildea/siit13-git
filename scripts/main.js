@@ -99,10 +99,15 @@ async function getTodos() {
         }
         
 displayContainer.append(fragment);
+
     }
     
      }
-     getTodos()
+     getTodos();
+
+     
+
+
 
 
 
